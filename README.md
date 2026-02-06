@@ -1,14 +1,14 @@
-## Hi there 👋
+# ORION ANALYST GROUP 👨‍💻
+    Aspiring Data Analysts 
+## About Me
+We are a group of inspired youths who are willing to transform the data analytical world. Although we are just starting, we believe we can make it to the pinnacle of data analysis and stand out above others in the global stage.
 
-<!--
-**orionanalyst/orionanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soft Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- Empathy
+- Leadership
+- Team work
+- Problem solving
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
